@@ -12,4 +12,7 @@ Este repositório aborda conceitos e aplicações de Biotecnologia Ambiental e M
 
 2. **Metagenômica:**
    - Conceitos básicos de metagenômica.
-   - Métodos de sequenciamento e análise de dados metagenômicos.
+     - Métodos de sequenciamento e análise de dados metagenômicos.
+     - [MICROBIOME ANALYST](https://www.microbiomeanalyst.ca/)
+     - [AntiSmash](https://antismash.secondarymetabolites.org/#!/start)
+
